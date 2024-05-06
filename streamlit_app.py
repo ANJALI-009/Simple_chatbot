@@ -33,7 +33,7 @@ st.markdown(
             position: absolute;
             left: -20%;
             top: -10%;
-            background-image:url(" https://cdn.pixabay.com/photo/2017/08/24/03/41/starry-sky-2675322_1280.jpg");
+            background-image:url(" https://wallpapers.com/images/featured/dark-sky-r6up6saosci2pwnu.jpg");
             background-repeat: no-repeat;
             background-size: cover;
             background-position: right;
